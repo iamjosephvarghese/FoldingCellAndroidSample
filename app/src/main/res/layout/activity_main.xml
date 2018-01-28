@@ -12,6 +12,7 @@
     <com.ramotion.foldingcell.FoldingCell
         xmlns:android="http://schemas.android.com/apk/res/android"
         android:id="@+id/folding_cell"
+        android:padding="20dp"
         android:clipChildren="false"
         android:clipToPadding="false"
         android:layout_width="match_parent"
